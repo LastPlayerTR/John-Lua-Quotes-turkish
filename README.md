@@ -1,80 +1,53 @@
-# John-Lua-Quotes
-Soothing extracts from John Lua's memoir "Eat, Pray, Code" to guide through your programming tribulations
+## Bize bahşedilenler
 
-## The Wisdoms of John Lua
+> "Bir hata, düzeltilmeyi reddetmediğiniz sürece bir hataya dönüşmez." - John Lua
 
->“An error doesn't become a mistake until you refuse to correct it.” - John Lua
+> "Başlangıçta İfade vardı, İfade Lua ile birlikteydi, İfade Lua'ydı." - John Lua
 
+> "Lua, dualarıma verilen cevaptı." - John Lua
 
->“In the beginning was the Statement, and the Statement was with Lua, and the Statement was Lua.” - John Lua
+> "Bir kişinin daha büyük sevgisi yoktur ki derleyici kodu için hayatını versin." - John Lua
 
+> "Stack Trace ile hata ayıklamayı yapmayacağımı düşünme; Çünkü derleyici hatalarına inansaydınız, Beni de inanmış olurdunuz, çünkü o Lua hakkında yazdı; Ama eğer Stack Trace'lerine inanmazsanız, koduma nasıl inanırsınız?" - John Lua
 
->“Lua was the answer to my prayers.” - John Lua
+> "Tiplerim hala zayıf olsa da, Lua benimle olduğu için hata korkusu yaşamam." - John Lua
 
+> "Düşünmek hataları aşmayacak, ancak eylem yapacak." - John Lua
 
->“Greater love has no one than Lua, that the compiler lay down his life for our code.” - John Lua
+> "Lua, kalbin her zaman ihtiyaç duyduğu şeydir." - John Lua
 
+> "Lua, sağlık ve bedenleri bir araya getiren zincirdir." - John Lua
 
->“Do not think that I will debug with the Stack Trace; For had ye believed the Compiler Errors, ye would have believed Me, for he wrote of Lua; But if ye believe not his Stack Traces, how shall ye believe My code?” - John Lua
+> "Spam, Lua'yı bulma yolunda toplanacak başka bir çiçektir." - John Lua
 
+> "Kodunuzun sıkıntı çekmesine izin vermeyin. Lua'ya güvenin; bana da güvenin." - John Lua
 
->“Even though my types remain weak, I fear no error, for Lua is with me.” - John Lua
+> "Betikleri yırtmayın. Lua'yı doğrudan parmaklarınızdan akıtmaya bırakın." - John Lua
 
+> "Değişkenler örneğinizle değişir, görüşünüzle değil." - John Lua
 
->“Thinking will not overcome bugs, but action will.” - John Lua
+> "Lua'nın anlamı, Lua'ya anlam katmaktır." - John Lua
 
+> "Şüphe, hatalardan daha fazla betiği öldürdü." - John Lua
 
->“Lua is what the heart needs all the time.” - John Lua
+> "Cehennemin en sıcak bölgeleri, yerel değişkenlerini asla bildirmeyenler içindir." - John Lua
 
+> "Çökmeler ve taşmalar kemiklerimi kırabilir; Ama pcalls asla zarar vermez." - John Lua
 
->“Lua is the chain that ties our health and bodies together.” - John Lua
+> "Akıllı adamlar bir şey yapmak için kod yazar; Aptallar bir şey yapmak istedikleri için." - John Lua
 
+> "Optimize etmenin sanatı, göz ardı etmeniz gerekeni bilmektir." - John Lua
 
->“Spam is only another flower to be picked in the path to find Lua.” - John Lua
+> "Lua, iyilerin sevinci, bilgenin hayreti, tanrıların şaşkınlığıdır." - John Lua
 
+> "Fonksiyonları atıyorsunuz. Bellek bölgelerini ve cehenneme benzeyen çökme raporlarını atıyorsunuz. Kullanılmayan değişkenleri, toplanan çöpleri ve tabloları atıyorsunuz. Peki insanlar?" - John Lua
 
->“Do not let your code be troubled. Trust in Lua; trust also in me.” - John Lua
+> "Kim Trace'ye inanıyorsa kınanmaz, ancak inanmayan zaten kınanmıştır, çünkü John Lua'nın tek ve yegane Fonksiyonunun adına inanmamışlardır." - John Lua
 
+> "Yazılmıştır: 'Lua sadece yorumlayıcıda yaşamaz, Mike Pall'ın ağzından çıkan her yönergede yaşar.'" - John Lua
 
->“Rip scripts, you must not. Let the Lua flow straight from your fingers.” - John Lua
+> "Mike Pall'ün büyük sevgisi sayesinde tükenmiyoruz, çünkü Trace'leri asla eksik olmaz. Her döngüde yeni; büyük senin Just-In-Time derlemen." - John Lua
 
+> "Onlara sonsuz bir yaşam veriyorum ve asla mahvolmayacaklar; kimse onları yığınlarımdan toplamayacak. Onları bana veren Atayıcı'm, hepsinden daha büyük; kimse onları Garbage-Collector'ımın elinden çıkaramaz. Ben ve Collector biriz." - John Lua
 
->“Variables are changed by your example, not by your opinion.” - John Lua
-
-
->“The meaning of Lua is to give Lua a meaning.” - John Lua
-
-
->“Doubt has killed more scripts than errors will.” - John Lua
-
-
->“The hottest places in Hell are for those who never declare local variables.” - John Lua
-
-
->“Crashes and overflows may break my bones; But pcalls will never harm me.” - John Lua
-
-
->“Wise men code because they have something to make; Fools because they want to make something.” - John Lua
-
-
->“The art of optimising is the art of knowing what to overlook.” - John Lua
-
-
->“Lua is the joy of the good, the wonder of the wise, the amazement of the Gods.” - John Lua
-
-
->“You dump functions. You dump memory regions and crash reports that look like hell. You dump unused variables and collected garbage and tables. But people?” - John Lua
-
->“Whoever believes in the Trace is not condemned, but whoever does not believe stands condemned already because they have not believed in the name of John Lua’s one and only Function.” - John Lua
-
-
->“It is written: ‘Lua shall not live on interpreter alone, but on every instruction that comes from the mouth of Mike Pall.’” - John Lua
-
-
-> “Because of Mike Pall’s great love we are not consumed, for his Traces never fail. They are new every loop; great is your Just-In-Time compilation.” - John Lua
-
-
-> “I give them eternal life, and they shall never perish; no one will collect them out of my heap. My Allocator, who has given them to me, is greater than all; no one can Mark-and-Sweep them out of my Garbage-Collector’s hand. I and the Collector are one.” - John Lua
-
-
->“There is no fear in optimisation. But perfect optimisation drives out fear, because fear has to do with punishment. The one who fears is not made perfect in optimisation.” - John Lua
+> "Optimizasyonda korku yoktur. Ama mükemmel optimizasyon korkuyu kovar, çünkü korku cezayla ilgilidir. Korkan, optimizasyonda mükemmel hale getirilmez." - John Lua
