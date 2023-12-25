@@ -1,53 +1,53 @@
 ## Bize bahşedilenler
 
-> "Bir hata, düzeltilmeyi reddetmediğiniz sürece bir hataya dönüşmez." - John Lua
+"**Bir hatanın bir hata olması, onu düzeltmeyi reddedene kadar gerçekleşmez.**" - John Lua
 
-> "Başlangıçta İfade vardı, İfade Lua ile birlikteydi, İfade Lua'ydı." - John Lua
+"**Başlangıçta Beyan vardı ve Beyan Lua ile birlikteydi ve Beyan Lua idi.**" - John Lua
 
-> "Lua, dualarıma verilen cevaptı." - John Lua
+"**Duanın cevabı Lua'ydı.**" - John Lua
 
-> "Bir kişinin daha büyük sevgisi yoktur ki derleyici kodu için hayatını versin." - John Lua
+"**Birinin başka kimseye olan sevgisinden daha büyük bir sevgi yoktur, ki derleyici, kodumuz için hayatını koysun.**" - John Lua
 
-> "Stack Trace ile hata ayıklamayı yapmayacağımı düşünme; Çünkü derleyici hatalarına inansaydınız, Beni de inanmış olurdunuz, çünkü o Lua hakkında yazdı; Ama eğer Stack Trace'lerine inanmazsanız, koduma nasıl inanırsınız?" - John Lua
+"**Stack Trace ile hata ayıklamayacağımı düşünmeyin; Çünkü derleme hatalarına inansaydınız, benim hakkımda inanmış olurdunuz, çünkü o Lua hakkında yazdı. Ama eğer Stack Trace'lerine inanmazsanız, koduma nasıl inanırsınız?**" - John Lua
 
-> "Tiplerim hala zayıf olsa da, Lua benimle olduğu için hata korkusu yaşamam." - John Lua
+"**Türlerim zayıf olsa bile hiçbir hatadan korkmam, çünkü Lua benimle birlikte.**" - John Lua
 
-> "Düşünmek hataları aşmayacak, ancak eylem yapacak." - John Lua
+"**Düşünmek hataları aşmaz, ancak eylem yapar.**" - John Lua
 
-> "Lua, kalbin her zaman ihtiyaç duyduğu şeydir." - John Lua
+"**Lua, kalbin her zaman ihtiyaç duyduğu şeydir.**" - John Lua
 
-> "Lua, sağlık ve bedenleri bir araya getiren zincirdir." - John Lua
+"**Lua, sağlığımızı ve bedenlerimizi bir araya getiren zincirdir.**" - John Lua
 
-> "Spam, Lua'yı bulma yolunda toplanacak başka bir çiçektir." - John Lua
+"**Spam, Lua'yı bulma yolundaki toplanacak başka bir çiçektir.**" - John Lua
 
-> "Kodunuzun sıkıntı çekmesine izin vermeyin. Lua'ya güvenin; bana da güvenin." - John Lua
+"**Kodunuz rahatsız olmasın. Lua'ya güvenin; aynı zamanda bana da güvenin.**" - John Lua
 
-> "Betikleri yırtmayın. Lua'yı doğrudan parmaklarınızdan akıtmaya bırakın." - John Lua
+"**Komut dosyalarını yırtma, Lua'nın doğrudan parmaklarından akmasına izin ver.**" - John Lua
 
-> "Değişkenler örneğinizle değişir, görüşünüzle değil." - John Lua
+"**Değişkenler, örneğinizle değişir, fikirlerinizle değil.**" - John Lua
 
-> "Lua'nın anlamı, Lua'ya anlam katmaktır." - John Lua
+"**Lua'nın anlamı, Lua'ya anlam katmaktır.**" - John Lua
 
-> "Şüphe, hatalardan daha fazla betiği öldürdü." - John Lua
+"**Kuşku, hatalardan daha fazla komut dosyası öldürdü.**" - John Lua
 
-> "Cehennemin en sıcak bölgeleri, yerel değişkenlerini asla bildirmeyenler içindir." - John Lua
+"**Cehennemin en sıcak yerleri, asla yerel değişken ilan etmeyenler içindir.**" - John Lua
 
-> "Çökmeler ve taşmalar kemiklerimi kırabilir; Ama pcalls asla zarar vermez." - John Lua
+"**Çökmeler ve taşmalar kemiklerimi kırabilir; Ama pcalls asla zarar vermez.**" - John Lua
 
-> "Akıllı adamlar bir şey yapmak için kod yazar; Aptallar bir şey yapmak istedikleri için." - John Lua
+"**Akıllı insanlar bir şey yapacakları için kod yazarlar; Aptallar bir şey yapmak istedikleri için.**" - John Lua
 
-> "Optimize etmenin sanatı, göz ardı etmeniz gerekeni bilmektir." - John Lua
+"**Optimizasyon sanatı, göz ardı edilecek şeyi bilmek sanatıdır.**" - John Lua
 
-> "Lua, iyilerin sevinci, bilgenin hayreti, tanrıların şaşkınlığıdır." - John Lua
+"**Lua, iyilerin sevinci, bilgenin hayranlığı, tanrıların hayreti.**" - John Lua
 
-> "Fonksiyonları atıyorsunuz. Bellek bölgelerini ve cehenneme benzeyen çökme raporlarını atıyorsunuz. Kullanılmayan değişkenleri, toplanan çöpleri ve tabloları atıyorsunuz. Peki insanlar?" - John Lua
+"**Fonksiyonları döküyorsun. Hafıza bölgelerini ve cehennem gibi görünen çökmeler rapor ediyorsun. Kullanılmayan değişkenleri ve toplanmış çöpleri döküyorsun. Ama insanlar?**" - John Lua
 
-> "Kim Trace'ye inanıyorsa kınanmaz, ancak inanmayan zaten kınanmıştır, çünkü John Lua'nın tek ve yegane Fonksiyonunun adına inanmamışlardır." - John Lua
+"**Trace'a inanan kimse mahkum edilmez, ama inanmayan kimse zaten mahkum edilmiştir çünkü John Lua'nın tek bir Fonksiyonun adına inanmamışlardır.**" - John Lua
 
-> "Yazılmıştır: 'Lua sadece yorumlayıcıda yaşamaz, Mike Pall'ın ağzından çıkan her yönergede yaşar.'" - John Lua
+"**Yazılmıştır: 'Lua sadece yorumlayıcı üzerinde yaşamayacak, ama Mike Pall'in ağzından gelen her talimat üzerinde yaşayacak.'**" - John Lua
 
-> "Mike Pall'ün büyük sevgisi sayesinde tükenmiyoruz, çünkü Trace'leri asla eksik olmaz. Her döngüde yeni; büyük senin Just-In-Time derlemen." - John Lua
+"**Mike Pall'ın büyük sevgisi sayesinde tükenmiyoruz, çünkü onun Izdırap İzi asla hüsran getirmez. Her döngüde yeni; büyük olan senin Yalnızca-Zamanında derleme.**" - John Lua
 
-> "Onlara sonsuz bir yaşam veriyorum ve asla mahvolmayacaklar; kimse onları yığınlarımdan toplamayacak. Onları bana veren Atayıcı'm, hepsinden daha büyük; kimse onları Garbage-Collector'ımın elinden çıkaramaz. Ben ve Collector biriz." - John Lua
+"**Onlara sonsuz yaşam veriyorum ve asla yok olmayacaklar; hiç kimse onları benim heap'imdən toplamayacak. Onları bana veren Allocatörüm, herkesten daha büyük; kimse onları benim Çöp Toplayıcım'ın elinden Mark-and-Sweep edemez. Ben ve Toplayıcı biriz.**" - John Lua
 
-> "Optimizasyonda korku yoktur. Ama mükemmel optimizasyon korkuyu kovar, çünkü korku cezayla ilgilidir. Korkan, optimizasyonda mükemmel hale getirilmez." - John Lua
+"**Optimizasyonda korku yoktur. Ama mükemmel optimizasyon korkuyu kovar, çünkü korku cezayla ilgilidir. Korkan, optimizasyon içinde mükemmel yapılmaz.**" - John Lua
